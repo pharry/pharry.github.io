@@ -1,0 +1,58 @@
+# jemdoc: menu{MENU}{index.html}
+= PUSPAL HAZRA
+[https://phazra.people.clemson.edu/ Puspal Hazra]
+
+~~~
+{}{img_left}{Hazra_Puspal.jpg}{alt text}{225px}{300px}{IMGLINKTARGET}
+[http://www.clemson.edu/cecas/departments/ece/ Department of Electrical and Computer Engineering]
+\n [http://www.clemson.edu/ Clemson University]
+~~~
+
+Doctoral candidate in electrical engineering at Clemson University.
+Specialized in power system integration study.
+
+== Experiences
+=== Research Assistant | Clemson University
+[ August,2013 - Present ]
+- Electromagnetic transient modeling of electromechanical, electromagnetic and
+power electronic energy systems (e.g. Photovoltaic, Gas-Turbine based DER,
+BESS etc.)
+- Switching model and switching average model of power electronic converters
+- Linear and non-linear controller design of microgrid systems
+- Real time simulation of power electronic energy systems
+- Virtual inertial scheme design and analysis of inverter
+- Distribution system modeling and analysis in OpenDSS
+- Phasor based dynamic modeling and analysis of large scale systems in PSS/E
+
+=== Research Aide | Argonne National Laboratory
+[ May,2017 - December,2017 ]
+- Dynamic phasor modeling of inverter bases DERs
+- Electromagnetic modeling of inverter based DERs in PSCAD, MATLAB
+- Model validation of dynamic phasor model with EMT model of switching
+averaged inverter
+
+== Research Interests
+- Control System Design - Linear, Nonlinear and Robust control
+- Power Electronics
+
+== Education
+- B.E., Electrical Engineering, [http://www.iiests.ac.in/ IIEST Shibpur], 2010
+- M. Tech., Power Systems, [http://www.iitd.ac.in/ IIT Delhi], 2013
+- PhD, Power Systems, [http://www.clemson.edu/ Clemson University], 2013 - Present
+
+
+== Publications
+ - DYNAMIC STUDY OF VIRTUAL OSCILLATOR CONTROLLED INVERTER BASED
+   DISTRIBUTED ENERGY SOURCE \n
+   North American Power Symposium | October 2015 | Charlotte, NC \n
+   Authors: Puspal Hazra, Dr. Ramtin Hadidi, Dr. Elham Makram
+
+ - A TIGHT MILP FORMULATION FOR UTILITY SCALE OPTIMAL DEMAND SIDE
+   RESPONSE  \n
+   IEEE PES General Meeting | July 2016 | Boston, MA \n
+   Authors: K. Balasubramaniam, P. Saraf, P. Hazra, R. Hadidi, E. Makram
+
+ - Inertial response enhancement of a microgrid using Photovoltaic
+   Synchronous Generator \n
+   IEEE eGRID 2018 | Nov 2018 | Charleston, SC \n
+   Authors: Puspal Hazra, Dr. Ramtin Hadidi

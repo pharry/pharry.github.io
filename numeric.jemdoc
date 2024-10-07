@@ -1,0 +1,40 @@
+# jemdoc: menu{MENU}{matlab.html}
+
+== Numeric Analysis
+- [https://www.mathworks.com/moler/chapters.html/ Numerical Computing with MATLAB]
+- [https://www.mathworks.com/help/matlab/getting-started-with-matlab.html  Getting Started with MATLAB]
+- [https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/moler/odes.pdf Ordinary Differential Equation and Numeric Integration]
+- [https://www.comsol.com/multiphysics/finite-element-method Detailed Explanation of Finite Element Method]
+
+== Miscellaneous
+- [https://www.mathworks.com/help/simulink/ug/algebraic-loops.html?searchHighlight=Algebraic%20Loops&s_tid=doc_srchtitle/ Algebraic Loops]
+- [http://www.mathworks.com/help/simulink/ug/work-with-derived-files-in-projects.html Working with Derived Files in Project]
+- [https://www.mathworks.com/help/simulink/ug/saving-a-model.html Difference Between MDL and SLX files]
+- [https://www.mathworks.com/help/matlab/matlab_external/standalone-example.html C Source MEX File in MATLAB]
+
+== Math Prelims
+
+- Linear Algebra
+  -- [https://web.stanford.edu/~boyd/vmls/vmls.pdf Introduction to Applied Linear Algebra: Vectors, Matrix, and Least Square]
+  -- [http://mathworld.wolfram.com/topics/LinearAlgebra.html Definitions(Wolfram)]
+  -- [https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm Linear Algebra]
+- Vector Space
+  -- [http://mathworld.wolfram.com/VectorSpace.html Wolfram]
+  -- [http://www.math.toronto.edu/gscott/WhatVS.pdf Geoffrey Scott, University of Toronto]
+
+- Optimization
+  -- Convex Optimization [http://web.stanford.edu/class/ee364a/lectures.html Stanford(EE364a)]
+- Dynamical System
+  -- [https://see.stanford.edu/Course/EE263 Introduction to Linear Dynamical System]
+- Machine Learning
+  -- [https://see.stanford.edu/course/cs229 Introduction to Machine Learning]
+- Digital Signal Processing
+  -- [https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/study-materials/ MIT OCW (Prof. Alan V. Oppenheim)]
+
+== Toolboxes
+- [http://www.pserc.cornell.edu/matpower/ MATPOWER]
+- [http://www.eps.ee.kth.se/personal/vanfretti/pst/Power_System_Toolbox_Webpage/PST.html Power System Toolbox]
+
+== Blogs
+- [https://blogs.mathworks.com/cleve/ Cleve's Corner]
+- [https://www.mathworks.com/company/newsletters/articles/a-brief-history-of-matlab.html A Brief History of MATLAB]

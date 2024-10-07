@@ -1,0 +1,104 @@
+# jemdoc: menu{MENU}{misc.html}
+
+== Documentation
+- [https://ctan.org/ LaTeX]
+- [https://www.overleaf.com/gallery/tagged/poster Poster Template in LaTeX]
+- [https://upload.wikimedia.org/wikipedia/commons/2/2d/LaTeX.pdf LaTeX WikiBook]
+
+== Documentation (Installer)
+- [https://miktex.org/download MikTex]
+- [https://www.texstudio.org/ TeXstudio]
+
+== AI and Machine Learning
+- [https://www.technologyreview.com/s/603501/10-breakthrough-technologies-2017-reinforcement-learning/ Reinforcement Learning]
+- [https://aiindex.org AI Index]
+- [https://medium.com/iotforall/the-difference-between-artificial-intelligence-machine-learning-and-deep-learning-3aa67bff5991 Difference between AI, Machine Learning and Deep Learning]
+
+== Numeric Solvers
+- [https://docs.scipy.org/doc/numpy/user/quickstart.html NumPy User Guide]
+- [http://www.scipy-lectures.org/_downloads/ScipyLectures-simple.pdf Scipy Lecture Notes V 2017]
+- [http://sfepy.org/doc-devel/index.html Simple Finite Elements in Python]
+
+== Installations
+- [https://www.anaconda.com/download/ Anaconda]
+- [http://www.sphinx-doc.org/en/master/index.html Sphinx - Python Documentation Generator]
+
+== Grid Data
+- [http://bettergrids.org/ Better Grid Data Repository]
+- [https://www.eia.gov/realtime_grid/ US Electric System Operating Data]
+
+
+== Drawing Tools
+- [https://inkscape.org/en/ Inkscape]
+- [https://www.gimp.org/ GNU Image Manipulation Program]
+
+== Text Editors
+- [https://atom.io/ Atom]
+- [https://flight-manual.atom.io/getting-started/sections/why-atom/ Why Atom]
+- [http://brackets.io/ Brackets]
+
+== GIS
+- [http://geopandas.org/index.html geopandas]
+- [https://www.esri.com/en-us/home ESRI]
+- [http://www.esri.com/library/brochures/pdfs/gis-sols-for-power-generation.pdf GIS Solutions for Power System Planning]
+- [https://residentmario.github.io/geoplot/index.html Geoplot - geospatial data visualization]
+- [https://leafletjs.com/ Leaflet JavaScript Library]
+- [https://switch2osm.org/the-basics/ SWITCH2OSM]
+- [https://www.mapbox.com/ Mapbox]
+- [https://theodi.org/article/how-are-facebook-apple-and-microsoft-contributing-to-openstreetmap/ OpenStreetMap]
+
+== MOOCs
+- [https://www.w3schools.com/ W3Schools]
+
+== Wiki
+- [https://skymind.ai/wiki/eigenvector Eigenvectors, Eigenvalues, PCA, Covariance and Entropy]
+- [https://skymind.ai/wiki/ Artificial Intelligence Wiki]
+- [https://www.td.org/magazines/td-magazine/inside-the-learning-brain Inside The Brain]
+- [https://wikimediafoundation.org/ WIKIMEDIA Foundation]
+
+== Web Development
+- [http://jemdoc.jaboc.net/ Jemdoc]
+- [https://www.mathjax.org/ MathJax]
+- [http://www.mit.edu/~wsshin/jemdoc+mathjax.html JemDoc + MathJax]
+- [https://stsievert.com/jem-press/ Jem-Press]
+- [https://www.djangoproject.com/ django]
+- [https://jekyllrb.com/ Jekyll]
+- [https://www.staticgen.com/ Static Site Generator]
+- [https://jamstack.org/ JAMStack]
+- [https://www.gatsbyjs.org/ GatsbyJS]
+- [https://middlemanapp.com/ Middleman Static Websites]
+- [https://www.jetbrains.com/student/ JetBrains Student]
+- [https://www.jetbrains.com/mps/?fromMenu Meta Programming System]
+- [https://www.google.com/webdesigner/ Google Web Designer]
+- [https://www.colorhexa.com/ ColorHexa]
+
+== Data Visualization
+- [https://dsl.richmond.edu/ Digital Scholarship Lab]
+- [https://bokeh.pydata.org/en/latest/ Bokeh]
+
+== Miscellaneous Projects
+- [https://opensource.fb.com/ Facebook Open Source]
+- [https://reactjs.org/ React: JavaScript Library for UI]
+- [https://opensource.google.com/ Google Open Source]
+- [https://experiments.withgoogle.com/ Experiments with Google]
+- [https://artsandculture.google.com/ Google Art and Culture]
+- [https://opensource.google.com/projects/permission.site Site Permission(Google)]
+- [https://research.fb.com/ Facebook Research]
+- [https://cloud.google.com/bigquery/ Google Bigquery]
+- [https://dotnet.microsoft.com/ .NET]
+- [https://docs.microsoft.com/en-us/dotnet/ .NET Documentation]
+- [https://www.linuxfoundation.org/ Linux Foundation]
+- [https://juliacomputing.com/ Julia Computing]
+
+== Articles
+- [https://www.anf.es/pdf/Haber_Stornetta.pdf How to Time-Stamp a Digital Document]
+- [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.414&rep=rep1&type=pdf Collision Free Hash Function and Public Key Signature Scheme]
+
+== Psychology
+- [https://www.apa.org/index.aspx American Psychological Association]
+
+== Screen Time
+- [https://www.rcpch.ac.uk/resources/health-impacts-screen-time-guide-clinicians-parents Health Impact of Screen Time]
+
+== GPU
+- [https://images.nvidia.com/content/grid/pdf/Virtual-GPU-Packaging-and-Licensing-Guide.pdf NVIDIA Virtual GPU - PACKAGING, PRICING AND LICENSING]

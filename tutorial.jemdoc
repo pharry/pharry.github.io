@@ -1,0 +1,154 @@
+# jemdoc: menu{MENU}{tutorial.html}
+
+== Documentation
+- [https://www.overleaf.com/read/mtbswcprcvdq LaTeX Demo]
+
+== Collaborative Documentation
+- [https://www.overleaf.com/ Overleaf]
+- [https://www.authorea.com/ Authorea]
+
+== HTML-CSS-JS Web Templates
+- [https://drive.google.com/open?id=1CzexFtLuoUjHQ_oYFB1q9ygY6ECn0O_U Demo Files]
+- [https://templated.co/ Templated]
+- [https://html5boilerplate.com/ HTML5BOILERPLATE]
+- [http://getskeleton.com/ Skeleton]
+- [https://getbase.org/ Base CSS]
+- [https://picturepan2.github.io/spectre/ Spectre CSS]
+- [https://milligram.io/ Miligram CSS]
+- [https://picnicss.com/ Picnic CSS]
+- [https://getuikit.com/ Ulkit]
+- [https://purecss.io/ Pure CSS]
+- [https://bulma.io/ Bulma CSS]
+- [https://css-tricks.com/ CSS Tricks]
+- [https://gohugo.io/ Hugo]
+
+== JavaScript Task Runner
+- [https://gruntjs.com/  Grunt]
+- [https://gulpjs.com/ Gulp]
+- [https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebPackTaskRunner WebPack]
+
+
+== Content Delivery Network
+- [https://en.wikipedia.org/wiki/Content_delivery_network Content Delivery Network Wiki]
+- [https://fontawesome.com/ Font Awesome]
+- [http://getbootstrap.com/ Bootstrap]
+- [https://aws.amazon.com/cloudfront/ Amazon CloudFront]
+- [https://www.ampproject.org/ AMP Project]
+- [https://www.cloudflare.com/cdn/ CloudFlare Caching]
+- [https://github.com/ampproject/amphtml AMP HTML]
+- [https://developers.google.com/amp/cache/ Google AMP Cache]
+- [https://www.netlifycms.org/ Netlify CMS]
+- [https://developers.google.com/amp/cache/reference/acceleratedmobilepageurl/rest/ Google AMP URL API]
+- [https://ampbyexample.com/advanced/using_the_google_amp_cache/ Using Google AMP Cache]
+
+== Application Delivery Network
+- [https://fly.io/ Fly: Edge Applications]
+- [https://fly.io/articles/whats-a-load-balancer-rabbit-holes-and-wormholes/ Load Balancer]
+
+
+== Virtual Box
+- [https://www.virtualbox.org/ Oracle VM VirtualBox]
+- [http://download.virtualbox.org/virtualbox/UserManual.pdf VirtualBox User Manual]
+
+== Interoperability
+- [https://openfmb.github.io/ OpenFMB]
+
+
+== Code for the Web
+- [https://sass-lang.com/ Sass: CSS with Superpower]
+- [https://medium.freecodecamp.org/whats-the-difference-between-ux-and-ui-design-2ca8d107de14 UI and UX Design]
+- [https://eloquentjavascript.net/ JavaScript]
+- [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide Mozilla JavaScript Guide]
+- [https://www.npmjs.com/ NPM Package Manager]
+- [https://jquery.com/ jQuery]
+- [https://en.wikipedia.org/wiki/Document_Object_Model Document Objective Model]
+- [https://medium.freecodecamp.org/whats-boilerplate-and-why-do-we-use-it-let-s-check-out-the-coding-style-guide-ac2b6c814ee7 What Is Boilerplate?]
+
+== UI
+- [https://builderbook.org/book Builder Book Web App]
+- [https://reactjs.org/ React]
+- [https://reactjs.org/community/examples.html React Example Project]
+- [https://codesandbox.io/ CodesAndBox]
+- [https://codepen.io/ CodePen]
+
+== Image Processing
+- [http://www.whydomath.org/node/wavlets/basicjpg.html Basic JPEG]
+
+== Netflix
+- [https://openconnect.netflix.com/Open-Connect-Overview.pdf Netflix Open Connect]
+- [https://media.netflix.com/en/company-blog/completing-the-netflix-cloud-migration? Netflix Cloud Migration]
+
+== Linux
+- [http://www.linfo.org/ The Linux Information Project]
+
+== Unix
+- [https://help.uis.cam.ac.uk/service/help-support/training/downloads/course-files/programming-student-files/unix-cli/unix-cli-files/working-copy-unixcli.pdf Introduction to Unix CLI]
+
+== Software Licenses
+- [https://help.github.com/articles/licensing-a-repository/ GitHub: Licensing A Repository]
+- [https://creativecommons.org/ Creative Commons]
+
+== World Wide Web
+- [http://courses.cs.vt.edu/~cs4244/spring.09/documents/Proxies.pdf Proxy Servers]
+- [https://developer.mozilla.org/en-US/ MDN Web Docs]
+- [https://www.w3.org/ W3C]
+- [https://w3c.github.io/ W3C GitHub]
+- [https://www.w3.org/History/1989/proposal.html World Wide Web Proposal by Tim Berners-Lee]
+- [https://theodi.org/ Open Data Institute]
+- [https://trends.google.com/ Google Trends]
+- [https://www.ampproject.org/ Accelerated Mobile Pages]
+- [https://www.ampstart.com/ AMP Start]
+- [https://www.wired.com/2016/02/googles-amp-speeding-web-changing-works/ Wired Article on AMP]
+- [https://amphtml.wordpress.com/ AMP Blog]
+- [http://ogp.me/ Open Graph Protocol]
+- [https://en.wikipedia.org/wiki/World_Wide_Web World Wide Web Wiki]
+- [https://www.cisco.com/c/en/us/about/press/internet-protocol-journal/back-issues/table-contents-2/ipj-archive/article09186a00800c8903.html  Web Caching: Cisco]
+- [https://www.internetsociety.org/ Internet Society]
+- [https://www.internethalloffame.org/ Internet Hall of Fame]
+- [https://kubernetes.io/ Kubernetes]
+- [https://www.cs.bu.edu/fac/best/res/papers/icde96.pdf Web Caching Paper]
+
+== App Development
+- [https://flutter.io/ Flutter]
+- [https://firebase.google.com/ Firebase]
+- [https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/ Write First Flutter Application]
+- [https://codelabs.developers.google.com/ Codelabs]
+
+== Automations
+- [http://www.ros.org/ Robot Operating System]
+
+== Data
+- [https://toolbox.google.com/datasetsearch Google Data Search]
+- [https://www.data.gov/ U.S. Government’s Open Data]
+
+== File Info
+- [https://fileinfo.com/ FileInfo]
+
+== Domain Names
+- [https://www.verisign.com/en_US/domain-names/com-domain-names/index.xhtml .com]
+- [https://info.info/ .info]
+- [https://pir.org/ .org]
+- [https://net.educause.edu/ .edu]
+- [https://registry.in/ .in]
+- [https://www.nic.io/ .io]
+- [https://www.about.us/ .us]
+
+== Organization and Associations
+- [https://www.acm.org/ Association for Computing Machinery]
+
+== Social Network Sharing
+- [https://developers.facebook.com/tools/debug/og/object Facebook : Open Graph Object Debugger]
+
+== Cloud Computing
+- [https://www.cncf.io/ CNCF]
+
+== wiki
+- [https://wiki.js.org/ Wiki JS]
+
+== Blog
+- [https://www.rewire.org/ Rewire]
+
+== Cloud Infrastructure
+- [https://aws.amazon.com/cloudfront/features/?nc=sn&loc=2 Amazon AWS]
+- [https://azure.microsoft.com/en-us/global-infrastructure/ Microsoft Azure]
+- [https://cloud.withgoogle.com/infrastructure/ Google Cloud]
