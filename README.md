@@ -1,4 +1,4 @@
-# About
+## About
 
 Personal blog on project updates, reading materials. 
 
