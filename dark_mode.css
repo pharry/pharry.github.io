@@ -49,8 +49,8 @@ body {
     top: 1em;
     right: 0;
     padding: 200px;
-    transform: translateX(-400px);
-	animation: x-axis 20s infinite linear;	
+    transform: translateX(-100px);
+/*	animation: x-axis 20s infinite linear;	*/
 }
 
 
@@ -101,7 +101,7 @@ body {
 
 .wrapper{
     transform: translateY(-200px);
-    animation: y-axis 15s infinite cubic-bezier(.81,0,.32,.99);
+/*    animation: y-axis 15s infinite cubic-bezier(.81,0,.32,.99); */
 }
 
   @keyframes x-axis {
